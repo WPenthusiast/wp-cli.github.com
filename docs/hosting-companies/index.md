@@ -9,6 +9,7 @@ The following is a list of hosting companies that have WP-CLI installed by defau
 
 In alphabetical order:
 
+* [34SP.com WordPress Hosting](https://www.34sp.com/wordpress-hosting)
 * [1&1](http://1and1.com/)
 * [Amimoto](http://megumi-cloud.com/)
 * [Bluehost](http://www.bluehost.com/)
